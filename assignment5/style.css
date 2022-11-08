@@ -37,6 +37,7 @@ a{
     margin:30px;
     width: 800px;
     text-align: center;
+    display: block;
 
 }
 
@@ -71,6 +72,7 @@ a{
     padding-bottom: 0px;
     margin:0;
     width: 800px;
+    display: block;
 }
 
 .section-2 a{
