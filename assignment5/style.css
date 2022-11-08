@@ -35,9 +35,6 @@ a{
     margin:30px;
 }
 
-p.ex1 {
-  max-width: 150px;
-}
 
 .section-1 h2{
     font-size: 1.7rem;
@@ -68,6 +65,7 @@ p.ex1 {
     font-size: 1.1rem;
     padding-bottom: 0px;
     margin:0;
+    width: 800px;
 }
 
 .section-2 a{
